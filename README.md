@@ -1,4 +1,4 @@
-# 🧪 PyFoundry – Pythonic Toolkit untuk Web3 dan CTF ala Foundry
+# 🧪 PyFoundry – Pythonic Toolkit untuk Web3 dan CTF Ala Foundry
 
 **PyFoundry** adalah sebuah implementasi Python dari toolkit populer [**Foundry**](https://github.com/foundry-rs/foundry), yang dirancang untuk memungkinkan pengguna berinteraksi dengan **Ethereum smart contracts** tanpa harus menginstal Foundry secara langsung.
 
